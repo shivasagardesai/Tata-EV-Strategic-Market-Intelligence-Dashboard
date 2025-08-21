@@ -28,5 +28,5 @@ This page dives deeper to uncover actionable insights and pinpoint specific oppo
 ## Dashboard Overview
 - <a href ="https://github.com/shivasagardesai/Tata-EV-Strategic-Market-Intelligence-Dashboard/blob/main/tata.pbix">view Dashboard</a>
 ## Dataset 
-- Data set files(csv) are provided above in README
+- Data set files(csv) are provided in README
 
