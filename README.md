@@ -25,5 +25,8 @@ This page dives deeper to uncover actionable insights and pinpoint specific oppo
 - Market Dynamics: A ribbon chart highlights the "rising star" markets by showing which states are gaining sales rank the fastest, enabling a focus on future growth areas.
 
 
-## Daashboard Overview
+## Dashboard Overview
 - <a href ="https://github.com/shivasagardesai/Tata-EV-Strategic-Market-Intelligence-Dashboard/blob/main/tata.pbix">view Dashboard</a>
+## Dataset 
+- Data set files(csv) are provided above in README
+
