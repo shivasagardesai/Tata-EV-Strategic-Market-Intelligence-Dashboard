@@ -13,7 +13,7 @@ The dashboard is structured into two distinct pages, each designed to tell a par
 
 ## Dashboard 1: India EV Market Overview
 This page provides a comprehensive summary of the national EV landscape.
- KPIs: At-a-glance metrics on total sales, charging stations, and national EV penetration.
- Growth Analysis: An area chart visualizes the explosive year-over-year growth of the EV market.
- Geographic Hotspots: A map immediately identifies the states with the highest sales volume, highlighting key markets.
- Infrastructure Leaders: A bar chart ranks states by their charging infrastructure, showing which regions are most prepared for the EV transition.
+- KPIs: At-a-glance metrics on total sales, charging stations, and national EV penetration.
+- Growth Analysis: An area chart visualizes the explosive year-over-year growth of the EV market.
+- Geographic Hotspots: A map immediately identifies the states with the highest sales volume, highlighting key markets.
+- Infrastructure Leaders: A bar chart ranks states by their charging infrastructure, showing which regions are most prepared for the EV transition.
