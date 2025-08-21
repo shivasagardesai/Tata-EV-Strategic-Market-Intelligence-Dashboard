@@ -17,3 +17,14 @@ This page provides a comprehensive summary of the national EV landscape.
 - Growth Analysis: An area chart visualizes the explosive year-over-year growth of the EV market.
 - Geographic Hotspots: A map immediately identifies the states with the highest sales volume, highlighting key markets.
 - Infrastructure Leaders: A bar chart ranks states by their charging infrastructure, showing which regions are most prepared for the EV transition.
+
+## Dashboard 2: Strategic Opportunity Analysis
+This page dives deeper to uncover actionable insights and pinpoint specific opportunities for Tata Motors.
+- Correlation Analysis: A scatter plot proves the strong positive relationship between charging infrastructure and EV sales, making a clear business case for investment.
+- Priority Market Identification: A matrix with advanced conditional formatting uses a custom "Infrastructure Strain Rank" to identify high-demand markets that are critically underserved by chargers.
+- Market Dynamics: A ribbon chart highlights the "rising star" markets by showing which states are gaining sales rank the fastest, enabling a focus on future growth areas.
+
+##Dataset used
+
+## Daashboard Overview
+ 
