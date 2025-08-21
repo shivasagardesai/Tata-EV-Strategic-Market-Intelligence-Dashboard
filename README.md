@@ -24,7 +24,6 @@ This page dives deeper to uncover actionable insights and pinpoint specific oppo
 - Priority Market Identification: A matrix with advanced conditional formatting uses a custom "Infrastructure Strain Rank" to identify high-demand markets that are critically underserved by chargers.
 - Market Dynamics: A ribbon chart highlights the "rising star" markets by showing which states are gaining sales rank the fastest, enabling a focus on future growth areas.
 
-##Dataset used
 
 ## Daashboard Overview
- 
+- <a href ="https://github.com/shivasagardesai/Tata-EV-Strategic-Market-Intelligence-Dashboard/blob/main/tata.pbix">view Dashboard</a>
